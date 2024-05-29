@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
@@ -50,7 +50,7 @@ ul {
   font-size: 18px;
 }
 
-/* Hero Section */
+
 .hero {
   background-image: url('https://s3.amazonaws.com/img.iluria.com/product/92555A/1753ABD/450xN.jpg');
 
@@ -107,7 +107,7 @@ ul {
   margin: 0 auto;
 }
 
-/* Features Section */
+
 .features {
   background-color: #000000;
   padding: 60px 20px;
@@ -144,7 +144,7 @@ ul {
   font-size: 16px;
 }
 
-/* Pricing Section */
+
 .pricing {
   padding: 60px 20px;
   text-align: center;
@@ -190,7 +190,6 @@ ul {
   margin-bottom: 10px;
 }
 
-/* Contact Section */
 .contact {
   background-color: #000000;
   padding: 60px 20px;
